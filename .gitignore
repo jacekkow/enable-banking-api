@@ -1,0 +1,6 @@
+/vendor/
+/composer.lock
+/.phpunit.cache/
+/examples/config.json
+*.pem
+/.phpunit.result.cache
